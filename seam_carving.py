@@ -9,10 +9,7 @@ class SeamCarving:
         self.energyList = []
         return
 
-    # This method is the one you should implement.  It will be called to perform
-    # the seam carving.  You may create any additional data structures as fields
-    # in this class or write any additional methods you need.
-    # 
+  
     # @return the seam's weight
     def run(self, image):
 
